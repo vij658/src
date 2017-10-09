@@ -1,6 +1,6 @@
 package shuffle.cards;
    
-public class Card implements ICard {
+public class Card implements ICard { 
   private String cardValue;
   private String suit;
   private int    cardPriority;
